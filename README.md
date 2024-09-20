@@ -1,5 +1,4 @@
-# 🏈 2022-2023 NFL Regular Season Data Analysis 🏈
-
+# 🏈 2022-2023 NFL Regular Season Data Analysis 🏈 <img align="left" alt="Tableau" width="50px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" />
 - In this project, I analyzed and visualized team statistics from the 2022-2023 NFL Regular Season using Tableau. The aim was to provide a comprehensive overview of team performances through insightful visualizations.
 
 - 🧠 Data Source:
